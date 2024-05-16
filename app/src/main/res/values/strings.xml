@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PhotoCut Pro</string>
+
+    <string name="no_data_found">No any data found </string>
+
+    <string name="from_gallery">From Gallery</string>
+    <string name="from_camera"> From Camera</string>
+</resources>
